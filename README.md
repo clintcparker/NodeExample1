@@ -1,4 +1,1 @@
-NodeExample1
-============
-
-A quick example of a unit-tested node.js app
+# This project has been archived
